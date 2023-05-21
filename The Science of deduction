@@ -1,0 +1,54 @@
+The Science of Deduction in Programming: Writing precise software
+Analogies between Sherlock Holmes and Machine Learning ,and how to apply the mentality of Sherlock Holmes as a computer programmer.
+
+ROHAN MARAR
+MAY 21, 2023
+https://pixabay.com/images/search/sherlock/
+Introduction :
+
+“ Data, data, data !”, said Holmes, “I cannot make bricks without clay.”
+
+It can be considered that Sherlock Holmes was the first data scientist, in a time when computers were not even invented. Instead, he relied on his greatest asset: his brain, which in his words, was a machine, a computer of the highest order that took input data in form of observations(meticulously analyzing crime scenes), and then performing immense calculations in his head ,rejecting impossible theorems and narrowing down to only likely possibilities, and then producing desired outcomes in his moments of ‘eureka!’.
+
+Fast forward to 100 years from Holmes’ time, where the computer can be said to be mankind’s greatest invention, a machine more powerful than any other, simply because it can manipulate information and produce miracles. In our modern digital age, knowing how a computer works is vital, and knowing how to control such a machine via programming is essential. Computer scientists must strive to write software with utmost perfection and mathematical beauty, and adopting Holmes’ deductive reasoning techniques while creating new algorithms may help them achieve more success.
+
+Computer programming is all about problem-solving, and if we consider problem-solving analogous to the crime solving techniques used in detective stories, we can add a layer of fun to the tedious process of coding, as well as develop a new practical, scientific mindset.
+
+The Benefits of a Career in Computer Programming - ONLC
+Developing Programs with Mathematical Beauty:
+
+Programming goes beyond mere coding. While coding involves learning the syntax of a programming language, programming encompasses understanding the science behind software, the mathematical models used, and how everything functions within a computer program. To master programming, one must approach it like learning a spoken language through practice and understanding the meaning of each component.
+
+Computer Science builds its strong foundation upon mathematics, and is broadly defined by math concepts related to logic, computation, and uncertainty. Many classical computer models are derived from complex mathematical concepts.
+
+The Role of Deductive Reasoning:
+
+Computer science is built upon mathematics, with many computer models deriving from complex mathematical concepts. Deductive reasoning, which involves drawing inferences using logic, plays a crucial role in software design and computational processes. By employing deductive reasoning, programmers can identify errors, design operating systems, and optimize machine learning algorithms without delving into complex mathematical concepts.
+
+In programming, adopting deductive profiling techniques can lead to interesting patterns and insights. Similar to solving crimes, programmers can analyze the behavior of algorithms, monitor their performance, and deduce the reasons behind unexpected outcomes. Deductive profiling helps in error detection, analyzing parameters, and approaching problems from different angles, enhancing problem-solving skills.
+
+Deductive reasoning starts with a simple statement and examines the possibilities to reach a specific, logical conclusion. Example: All men are mortal. Socrates is a man. Hence Socrates is mortal. Such a train of thoughts, or the process of deduction, can find tremendous applications when designing software models or computational processes. This is because there is an inherent foundation of mathematics and logic embedded in this system, and we can employ it for any practical purposes, such as finding errors in our code, designing operating systems, finding out the most optimal strategy in a ML algorithm.
+
+Insight 1:
+
+Finding the Culprit - Detecting and Handling Errors:
+
+Debugging a program is akin to being a detective solving a mystery. Errors and bugs in code can lead to software failure, and debugging is crucial for maintaining robust code. The process involves identifying suspects (lines of code), categorizing errors (logical, runtime, compile-time), and thoroughly examining the code to eliminate possible reasons for the error. The key lies in perseverance, tinkering, and experimenting to gain new insights and overcome challenges.
+
+Insight 2:
+
+Hypotheses - Using Machine Learning for Predictions:
+
+Data is crucial in the Information Revolution era, and machine learning is at the forefront of data science. Machine learning algorithms adjust themselves based on input data to uncover hidden patterns and make accurate predictions. Just as Sherlock Holmes uses deductive reasoning to solve mysteries, machine learning algorithms process data, optimize parameters, and continuously learn from new data. Ensuring the quality and proper analysis of data is vital for optimal algorithm performance.
+
+Introduction to Machine Learning for Beginners | by Ayush Pant | Towards  Data Science
+Machine Learning - The Sherlock Holmes of Data Science:
+
+Machine learning, a subfield of artificial intelligence, focuses on learning and improving accuracy by analyzing data and adjusting algorithms. It relies on mathematical models and concepts, such as neural networks, to make predictions and inferences. Software developers can harness the power of machine learning without delving into complex mathematics, thanks to the abstraction provided by computer science.
+
+Machine learning (ML) and Sherlock Holmes share striking similarities in their problem-solving approaches. Just as Holmes uses his keen observation skills and deductive reasoning to solve mysteries, ML algorithms analyze vast amounts of data to uncover patterns and make predictions. Holmes relies on his accumulated knowledge and experiences stored in his "mind palace" to solve cases, akin to ML models being trained on extensive datasets to learn and generalize from examples. Additionally, Holmes carefully selects relevant information while discarding irrelevant details, reflecting ML's feature selection process to focus on the most informative attributes. Both ML and Holmes employ meticulous analysis, uncover hidden insights, and make informed decisions, demonstrating the remarkable overlap between the cognitive processes of an astute detective and a sophisticated machine learning system.
+
+Conclusion:
+
+By incorporating deductive reasoning and mathematical precision into programming, computer scientists can enhance their problem-solving skills and write software with utmost perfection. Understanding the science behind software and adopting deductive profiling techniques can lead to more efficient debugging, error handling, and optimization of algorithms. Additionally, machine learning, with its reliance on data and mathematical models, offers powerful insights and predictions, making it the Sherlock Holmes of data science.
+
